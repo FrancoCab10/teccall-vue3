@@ -1,0 +1,20 @@
+<template>
+  <div class="container">
+    <slot></slot>
+  </div>
+</template>
+
+<script>
+export default {
+  name: "AppContainer"
+};
+</script>
+
+<style scoped>
+.container {
+  width: 95%;
+  max-width: 1280px;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>

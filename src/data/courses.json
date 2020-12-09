@@ -1,0 +1,62 @@
+[
+  {
+        "id": 1,
+        "course": "Unit Tests with Jest",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi a quaerat molestiae voluptates dolore.",
+        "status": true
+  },
+  {
+        "id": 2,
+        "course": "React University",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi a quaerat molestiae voluptates dolore.",
+        "status": true
+  },
+  {
+        "id": 3,
+        "course": "Understanding TypeScript",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi a quaerat molestiae voluptates dolore.",
+        "status": false
+  },
+  {
+        "id": 4,
+        "course": "Python Masterclass",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi a quaerat molestiae voluptates dolore.",
+        "status": true
+  },
+  {
+        "id": 5,
+        "course": "UK Bribery Act 2010",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi a quaerat molestiae voluptates dolore.",
+        "status": true
+  },
+  {
+        "id": 6,
+        "course": "Preventing Harassment",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi a quaerat molestiae voluptates dolore.",
+        "status": true
+  },
+  {
+        "id": 7,
+        "course": "Global Business Ethics",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi a quaerat molestiae voluptates dolore.",
+        "status": false
+  },
+  {
+        "id": 8,
+        "course": "Foreign Corrupt Practices Act",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi a quaerat molestiae voluptates dolore.",
+        "status": true
+  },
+  {
+        "id": 9,
+        "course": "EU Data Protection",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi a quaerat molestiae voluptates dolore.",
+        "status": false
+  },
+  {
+        "id": 10,
+        "course": "Data Privacy Training",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi a quaerat molestiae voluptates dolore.",
+        "status": true
+  }
+]
